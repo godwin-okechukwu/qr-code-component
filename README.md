@@ -57,7 +57,7 @@ I hope to come improve on the presentaion and funtionality of the QR-Code Compon
 ### Useful resources
 
 - [HTML CSS Tutorial Order Summary Component](https://www.freecodecamp.com) - This resource really helped me wrap my head around the CSS Box Model concept. I really liked this tutorial and will refer to it in subsequent projects.
-- [Git & GitHub Crash Course](https://www.traversymedia.com) - Brad Traversy has always been an inspiration to me and many newbie developers. I'd recommend it to anyone still learning this concept.
+- [Git & GitHub Crash Course](https://www.traversymedia.com) - Brad Traversy has always been an inspiration to me and many newbie developers. I'd recommend his website to anyone still learning this concept.
 
 ## Author
 
@@ -67,4 +67,4 @@ I hope to come improve on the presentaion and funtionality of the QR-Code Compon
 
 ## Acknowledgments
 
-A big thank you to Matt Studdert for setting up this amazing platform as it has shapened my approach and resolve to get into tech in a meaningful and structured way.I also want to thank Brad Traversy for putting out rich contents on his youtube channel, Traversy Media. And I thank the creators of FreeCodeCamp.
+A big thank you to Matt Studdert for setting up this amazing platform, as it has sharpened my approach and resolve to get into tech in a more meaningful and structured way. I also want to thank Brad Traversy for putting out rich contents on his youtube channel, Traversy Media. And I thank the creators of FreeCodeCamp.
